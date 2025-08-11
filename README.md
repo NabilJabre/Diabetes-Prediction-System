@@ -33,4 +33,4 @@ The dataset used in this project is `diabetes.csv`, which contains 768 rows and 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NabilJabre/Diabetes-Prediction-System.git
